@@ -4,17 +4,17 @@
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange.svg)](https://github.com/ultralytics/ultralytics)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-blue.svg)](#)
 
-**📚 Course:** Deep Learning Lab (2311332L)  
-**🎓 Institution:** MIT Academy of Engineering  
-**📍 Department:** Computer Engineering (Software Engineering)  
-**📅 Academic Year:** 2025-26  
-**🏫 Batch:** A1, A2, A3
+**Course:** Deep Learning Lab (2311332L)  
+**Institution:** MIT Academy of Engineering  
+**Department:** Computer Engineering (Software Engineering)  
+**Academic Year:** 2025-26  
+**Batch:** A1, A2, A3
 
 **Repository:** [https://github.com/Chran19/yolov8-object-detection-segmentation-classification-lab](https://github.com/Chran19/yolov8-object-detection-segmentation-classification-lab)
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This is a comprehensive deep learning laboratory project implementing **YOLOv8** for three fundamental computer vision tasks:
 
@@ -26,7 +26,7 @@ The project demonstrates the complete machine learning pipeline including data p
 
 ---
 
-## �‍💼 Course Faculty
+## Course Faculty
 
 | Role                  | Name             |
 | --------------------- | ---------------- |
@@ -35,7 +35,7 @@ The project demonstrates the complete machine learning pipeline including data p
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | Roll Number  | Name               |
 | ------------ | ------------------ |
@@ -46,7 +46,7 @@ The project demonstrates the complete machine learning pipeline including data p
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 yolov8-object-detection-segmentation-classification-lab/
@@ -61,7 +61,7 @@ yolov8-object-detection-segmentation-classification-lab/
 
 ---
 
-## 📚 Notebook Structure (13 Sections)
+## Notebook Structure (13 Sections)
 
 The Jupyter notebook contains 42 cells organized into the following sections:
 
@@ -97,7 +97,7 @@ The Jupyter notebook contains 42 cells organized into the following sections:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -145,20 +145,20 @@ Run the custom image cells in Section 13 to see side-by-side original vs. detect
 
 ---
 
-## 📈 Key Features
+## Key Features
 
-- ✅ **Three Vision Tasks** — Detection, Segmentation, Classification in one notebook
-- ✅ **Multi-Model Architecture** — Base, Small, and Medium variants comparison
-- ✅ **Data Augmentation** — HSV, rotation, translation, scaling, mosaic, mixup
-- ✅ **Hyperparameter Tuning** — Grid search experiments
-- ✅ **Model Export** — ONNX and TorchScript formats
-- ✅ **PyTorch Compatibility** — Safe weight loading for PyTorch 2.6+
-- ✅ **Visualization** — Side-by-side detection comparisons, confusion matrices, training curves
-- ✅ **Custom Images** — Direct inference on local images with confidence scores
+- **Three Vision Tasks** — Detection, Segmentation, Classification in one notebook
+- **Multi-Model Architecture** — Base, Small, and Medium variants comparison
+- **Data Augmentation** — HSV, rotation, translation, scaling, mosaic, mixup
+- **Hyperparameter Tuning** — Grid search experiments
+- **Model Export** — ONNX and TorchScript formats
+- **PyTorch Compatibility** — Safe weight loading for PyTorch 2.6+
+- **Visualization** — Side-by-side detection comparisons, confusion matrices, training curves
+- **Custom Images** — Direct inference on local images with confidence scores
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Preparation
 
@@ -200,7 +200,7 @@ Run the custom image cells in Section 13 to see side-by-side original vs. detect
 
 ---
 
-## � Expected Results
+## Expected Results
 
 ### Detection Performance
 
@@ -216,12 +216,12 @@ Run the custom image cells in Section 13 to see side-by-side original vs. detect
 
 ### Export Formats
 
-- ✅ **ONNX** — Cross-platform deployment
-- ✅ **TorchScript** — PyTorch production deployment
+- **ONNX** — Cross-platform deployment
+- **TorchScript** — PyTorch production deployment
 
 ---
 
-## 📁 Dataset Details
+## Dataset Details
 
 ### COCO128
 
@@ -248,7 +248,7 @@ By completing this lab, students will:
 
 ---
 
-## 🔍 Troubleshooting
+## Troubleshooting
 
 ### PyTorch Weight Loading Issues
 
@@ -272,7 +272,7 @@ If COCO128 doesn't download, the notebook falls back to pre-trained weights for 
 
 ---
 
-## 📚 References
+## References
 
 - **YOLOv8 Documentation:** https://docs.ultralytics.com/
 - **PyTorch:** https://pytorch.org/
@@ -281,7 +281,7 @@ If COCO128 doesn't download, the notebook falls back to pre-trained weights for 
 
 ---
 
-## 📄 License
+## License
 
 This project is developed as part of the **Deep Learning Lab (2311332L)** course at MIT Academy of Engineering, Computer Engineering Department.
 
@@ -289,6 +289,6 @@ This project is developed as part of the **Deep Learning Lab (2311332L)** course
 
 ---
 
-_Developed with ❤️ by Group Members: Yashwardhan Jangid, Shreyash Kumbhar, Ranjeet Choudhary, Rishabh Rai_
+_Developed by Group Members: Yashwardhan Jangid, Shreyash Kumbhar, Ranjeet Choudhary, Rishabh Rai_
 
 **Last Updated:** March 25, 2026
