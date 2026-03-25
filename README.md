@@ -37,12 +37,12 @@ The project demonstrates the complete machine learning pipeline including data p
 
 ## 👥 Group Members
 
-| Roll Number  | Name                       |
-| ------------ | -------------------------- |
-| 202301100007 | Yashwardhan Jangid         |
-| 202301100032 | Shreyash Kumbhar           |
-| 202301100046 | Ranjeet Choudhary (Leader) |
-| 202301100047 | Rishabh Rai                |
+| Roll Number  | Name               |
+| ------------ | ------------------ |
+| 202301100007 | Yashwardhan Jangid |
+| 202301100032 | Shreyash Kumbhar   |
+| 202301100046 | Ranjeet Choudhary  |
+| 202301100047 | Rishabh Rai        |
 
 ---
 
