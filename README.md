@@ -233,18 +233,18 @@ Run the custom image cells in Section 13 to see side-by-side original vs. detect
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By completing this lab, students will:
 
-- ✅ Understand YOLOv8 architecture and variants
-- ✅ Implement detection, segmentation, and classification pipelines
-- ✅ Apply data augmentation for improved model generalization
-- ✅ Perform hyperparameter optimization via grid search
-- ✅ Analyze model performance with confusion matrices and metrics
-- ✅ Compare multi-model performance trade-offs (accuracy vs. speed)
-- ✅ Export models for production deployment (ONNX, TorchScript)
-- ✅ Run custom inference on local images
+- **Understand** YOLOv8 architecture and variants
+- **Implement** detection, segmentation, and classification pipelines
+- **Apply** data augmentation for improved model generalization
+- **Perform** hyperparameter optimization via grid search
+- **Analyze** model performance with confusion matrices and metrics
+- **Compare** multi-model performance trade-offs (accuracy vs. speed)
+- **Export** models for production deployment (ONNX, TorchScript)
+- **Run** custom inference on local images
 
 ---
 
